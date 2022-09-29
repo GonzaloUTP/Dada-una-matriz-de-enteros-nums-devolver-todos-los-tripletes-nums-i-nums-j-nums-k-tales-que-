@@ -1,3 +1,4 @@
+JOSE GONZALO DZUL UC  TICS GRUPO 4A
 # Dada-una-matriz-de-enteros-nums-devolver-todos-los-tripletes-nums-i-nums-j-nums-k-tales-que-
 /**
  * @param {number[]} nums
